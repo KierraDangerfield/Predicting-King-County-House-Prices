@@ -5,7 +5,7 @@ King County, Washington is the most populous county in Washington. It is also th
 ## Table of Contents
 1. Data
 <li><a href="https://github.com/KierraDangerfield/Predicting-King-County-House-Prices/tree/main/Data">King County, Washington Data</a></li>
-
+<br/>
 2. Notebooks
 <li>
   <a href="https://github.com/KierraDangerfield/Predicting-King-County-House-Prices/blob/main/Notebooks/1%20Predicting%20King%20County%20House%20Prcies%20Data%20Wrangling.ipynb">Predicting King County House Prcies Data Wrangling</a>
@@ -20,6 +20,7 @@ King County, Washington is the most populous county in Washington. It is also th
   <a href="https://github.com/KierraDangerfield/Predicting-King-County-House-Prices/blob/main/Notebooks/4%20Predicting%20King%20County%2C%20Washington%20House%20Prices%20Modeling.ipynb">Predicting King County, Washington House Prices Modeling</a>
 </li>
 
+<br/>
 3. Reports
 <li><a href="[https://github.com/KierraDangerfield/Predicting-King-County-House-Prices/blob/main/Reports/Predicting%20King%20County%20Washington%20House%20Prices%20-%20EDA%20Report.docx](https://github.com/KierraDangerfield/Predicting-King-County-House-Prices/blob/main/Reports/Predicting%20King%20County%20Washington%20House%20Prices%20-%20EDA%20Report.docx)">Predicting King County Washington House Prices - EDA Report</a></li>
-<li><a href="[https://github.com/KierraDangerfield/Predicting-King-County-House-Prices/blob/main/Reports/Predicting%20House%20Prices%20in%20King%20County%2C%20Washington%20Report.docx](https://github.com/KierraDangerfield/Predicting-King-County-House-Prices/blob/main/Reports/Predicting%20House%20Prices%20in%20King%20County%2C%20Washington%20Report.docx)">Predicting House Prices in King County, Washington Report</a></li>
+<li><a href="[[https://github.com/KierraDangerfield/Predicting-King-County-House-Prices/blob/main/Reports/Predicting%20House%20Prices%20in%20King%20County%2C%20Washington%20Report.docx](https://github.com/KierraDangerfield/Predicting-King-County-House-Prices/blob/main/Reports/Predicting%20House%20Prices%20in%20King%20County%2C%20Washington%20Report.docx)](https://github.com/KierraDangerfield/Predicting-King-County-House-Prices/blob/main/Reports/Predicting%20House%20Prices%20in%20King%20County%2C%20Washington%20Report.docx)">Predicting House Prices in King County, Washington Report</a></li>
